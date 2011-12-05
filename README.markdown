@@ -18,9 +18,9 @@ No pom fica
 
 o vraptor-twitter usa o vraptor-enviroment para fazer a configuração necessária do twitter: 
 
-twitter.consumer_key=blabla
-twitter.consumer_secret=blaabalabla
-twitter.callback_url=http://127.0.0.1:8080/callback_da_sua_aplicacao
+		twitter.consumer_key=blabla
+		twitter.consumer_secret=blaabalabla
+		twitter.callback_url=http://127.0.0.1:8080/callback_da_sua_aplicacao
 
 
 # fazendo login
